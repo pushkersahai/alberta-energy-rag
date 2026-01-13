@@ -10,3 +10,4 @@ __pycache__/
 
 # IDE
 .vscode/
+test_azure_openai.py
