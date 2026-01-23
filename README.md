@@ -1,6 +1,6 @@
 # Alberta Energy Regulations RAG Assistant
 
-AI-powered question-answering system for Alberta Energy Regulator directives using Retrieval-Augmented Generation (RAG).
+Regulations RAG for Alberta energy using Databricks + Azure OpenAI.
 
 ## Business Problem
 Energy companies and regulatory professionals spend hours searching through dense regulatory documents. This RAG system provides instant, accurate answers grounded in official AER directives.
